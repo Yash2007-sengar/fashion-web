@@ -1,0 +1,6 @@
+{
+  "name": "ATELIER VÉRITÉ — Luxury Fashion House",
+  "description": "The Autumn / Winter Edit. Modern silhouettes crafted with timeless intention. Discover considered tailoring, luxury outerwear, and the editorial lookbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
